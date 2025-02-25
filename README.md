@@ -8,7 +8,3 @@ I'm a fullstack software developer with a passion for building web applications.
 - C#
 - React
 - DevOps
-
-
-## Contact
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/oleg-tarnarutsky-5710b43a).
