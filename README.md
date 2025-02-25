@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Oleg Tarnarutsky 👋
 
-<!--
-**olegtar83/olegtar83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://api.visitorbadge.io/api/VisitorHit?user=olegtar83&repo=olegtar83&countColor=%2387CEEB)
+### About Me
+I'm a fullstack software developer with a passion for building web applications. I love working with C#, React, and PostgreSQL.
 
-Here are some ideas to get you started:
+### Skills
+- C#
+- React
+- DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Contact
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/oleg-tarnarutsky-5710b43a).
