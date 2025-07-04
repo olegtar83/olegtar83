@@ -4,4 +4,7 @@
 ### About Me
 I'm a fullstack software developer with a passion for building web applications. I love working with C#, React, and PostgreSQL.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olegtar83&show_icons=true&theme=dark&show=discussions_started&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=olegtar83&show_icons=true&theme=dark&hide=contribs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olegtar83&layout=compact&theme=dark" />
+</div>
