@@ -1,4 +1,4 @@
-## Hi there, I'm Oleg Tarnarutsky 👋
+## Hi there, I'm Oleg  👋
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=olegtar83&repo=olegtar83&countColor=%2387CEEB)
 ### About Me
